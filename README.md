@@ -19,9 +19,9 @@ This project implements a real-time, bidirectional interface between Unity and R
 
 ## 📼 Demonstration
 
-| NDT Workflow in Unity | VR-Based Interaction |
-|-----------------------|----------------------|
-| 🎥 [Watch Video 1](Demo/demo1_inspection_walkthrough.mp4) | 🎥 [Watch Video 2](Demo/demo2_vr_interaction_oculus.mp4) |
+<div align="center">
+<video src="https://github.com/user-attachments/assets/68fa1c74-797d-4ddb-8cf0-2a986e52d123" width="352" height="720"></video>
+</div>
 
 ---
 
