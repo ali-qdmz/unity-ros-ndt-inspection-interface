@@ -84,7 +84,17 @@ Message Types:
 5. Play the Unity scene:
    Assets/Scenes/Main.unity
 
+## 📄 Publications
 
-## 🙌 Acknowledgments
+- **A Digital Twin Platform for Robotic Non-Destructive Evaluation of Reinforced Concrete**  
+  *Ali Ghadimzadeh Alamdari, Arvin Ebrahimkhanlou, Ivan Bartoli*  
+  *Proc. of SPIE Vol. 13438: Digital Twins, AI, and NDE for Industry Applications and Energy Systems, 2025*  
+  [https://doi.org/10.1117/12.3051164](https://doi.org/10.1117/12.3051164)
+
+- *Journal article under review*, expanding on this framework with real-time robotic control, immersive NDT analysis, and 3D defect reconstruction.
+
+---
+
+## Acknowledgments
 
 This work was developed as part of a research effort on immersive robotic NDT systems. Special thanks to contributors from Drexel University and collaborators on the ROS–Unity integration framework.
