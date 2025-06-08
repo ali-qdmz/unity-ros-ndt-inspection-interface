@@ -24,7 +24,7 @@ This project implements a real-time, bidirectional interface between Unity and R
 </div>
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/14c6043d-5504-4a15-b447-65c0343a4fb3" width="176" height="360"></video>
+<video src="https://github.com/user-attachments/assets/14c6043d-5504-4a15-b447-65c0343a4fb3" width="176" height="200"></video>
 </div>
 
 <div align="center">
