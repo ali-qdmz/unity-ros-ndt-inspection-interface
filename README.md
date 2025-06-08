@@ -32,7 +32,7 @@ This project implements a real-time, bidirectional interface between Unity and R
 </div>
 
 ---
-
+```bash
 ## 🧭 Repository Structure
 
 unity-ros-ndt-inspection-interface/
@@ -43,7 +43,7 @@ unity-ros-ndt-inspection-interface/
 ├── Docs/                    # Images, guides, architecture diagrams
 ├── README.md
 └── .gitignore
-
+```
 ---
 
 ## 🔄 ROS Communication Overview
