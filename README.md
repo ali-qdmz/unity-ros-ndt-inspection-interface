@@ -20,12 +20,15 @@ This project implements a real-time, bidirectional interface between Unity and R
 ## 📼 Demonstration
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/68fa1c74-797d-4ddb-8cf0-2a986e52d123" width="352" height="720"></video>
+<video src="https://github.com/user-attachments/assets/8cb187a9-a9b1-434c-a0bd-0213f2616f51" width="352" height="720"></video>
 </div>
 
+<div align="center">
+<video src="https://github.com/user-attachments/assets/3f3d9002-4660-4adc-858a-88daf4567e43" width="176" height="360"></video>
+</div>
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/91347442-e5ed-4797-a19f-8546befff78c" width="176" height="360"></video>
+<video src="https://github.com/user-attachments/assets/5bf07950-fb9c-4ae7-9ab6-14b5a4ef8098" width="176" height="360"></video>
 </div>
 
 ---
