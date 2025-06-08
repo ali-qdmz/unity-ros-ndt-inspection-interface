@@ -23,6 +23,11 @@ This project implements a real-time, bidirectional interface between Unity and R
 <video src="https://github.com/user-attachments/assets/68fa1c74-797d-4ddb-8cf0-2a986e52d123" width="352" height="720"></video>
 </div>
 
+
+<div align="center">
+<video src="https://github.com/user-attachments/assets/91347442-e5ed-4797-a19f-8546befff78c" width="176" height="360"></video>
+</div>
+
 ---
 
 ## 🧭 Repository Structure
